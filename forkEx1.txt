@@ -1,0 +1,14 @@
+# Fork 작업순서 #
+
+1. 원하는 repositories **Fork**버튼 클릭
+2. Repository name에 온라인 저장소 이름 입력후
+   Create fork 버튼 눌러 내 repositories로 가져오기
+3. 가져온걸 초록색버튼 code 눌러 url복사
+4. **fork 한 폴더를 담을 폴더**에서 gitbash 를 열어
+   복사한 url붙여넣기 해서 fork한 폴더 생성
+
+### Fork 한 폴더 안 파일을 수정할경우 주의사항 ###
+
+**fork한 폴더를 담았던 폴더**에서 열었던 gitbash에서 작업할경우
+main 이 담았던 폴더이기 때문에 작업중인 gitbash를 닫고
+**fokr한 폴더로 들어가 다시 gitbash를 열어*** 작업진행해야함
